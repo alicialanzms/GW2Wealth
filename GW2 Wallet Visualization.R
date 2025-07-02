@@ -1,4 +1,3 @@
-# By Alicia Lanz, for ArenaNet Final Interview
 library(shiny)
 library(shinydashboard)
 library(httr2)
